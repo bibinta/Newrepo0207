@@ -1,4 +1,6 @@
 uno
-dos
-tres
+
+tre
+police
+s
 
